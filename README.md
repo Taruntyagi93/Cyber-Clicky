@@ -1,0 +1,2 @@
+# Cyber-Clicky
+This interactive game will allow the user to learn Cyber Security concepts in a fun and interactive way by using their memory and knowledge that they just gained. There will be 16 cards on the screen, that will have have the Cyber Security concepts on that and a person will learn one concept at a time and click on that concept.  After that, he will learn another concept and click on that. The person should not click on the same concept twice.  Implementation - React, JavaScript, HTML, CSS.
